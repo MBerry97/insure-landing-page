@@ -15,6 +15,4 @@ Button.propTypes = {
 
 Button.defaultProps = {
   text: null,
-
-  // hover: null,
 };
